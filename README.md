@@ -1,6 +1,6 @@
 <h1><a href="#">DocORG</a></h1>
 
-<img src="#" alt="logo" width="200" height="200"/>
+<img src="img/logo.png" alt="logo" width="200" height="200"/>
 
 ## **Inspiration**
 
