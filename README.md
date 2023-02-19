@@ -1,4 +1,4 @@
-<h1><a href="https://dot-slash6-0-client.vercel.app/">DocORG</a></h1>
+<h1><a href="https://document-classifier-client.vercel.app/">DocORG</a></h1>
 
 <img src="img/logo.png" alt="logo" width="200" height="200"/>
 
